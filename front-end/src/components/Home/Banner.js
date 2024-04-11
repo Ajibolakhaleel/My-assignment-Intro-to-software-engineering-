@@ -3,7 +3,8 @@ import "./Banner.css";
 import banner from './../../assets/learn.png'
 
 function Banner(){
-    const text = ` Élevons l'éducation au Tchad en créant un hub éducatif qui démocratise l'accès aux ressources éducatives, améliorons les performances académiques et enrichissons l'expérience d'apprentissage pour chaque éleve.`;
+    const text = `
+Let's elevate education in Nigeira by creating an educational hub that democratizes access to educational resources, improves academic performance, and enriches the learning experience for every student..`;
     const upperCaseText = text;
 
     return(

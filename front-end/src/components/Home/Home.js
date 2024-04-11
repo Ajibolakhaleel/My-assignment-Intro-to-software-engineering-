@@ -26,7 +26,7 @@ function Home() {
       
 
       <div className='footer' data-aos="fade-up">
-        <p className='content_footer'>Made with ❤️ by Chad Learn Hub</p>
+        <p className='content_footer'>Made with ❤️ by Aji Learn Hub</p>
       </div>
     </div>
   );

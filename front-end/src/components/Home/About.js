@@ -4,8 +4,8 @@ import "./About.css";
 function About(){
     return(
         <div className="about" id="About">
-            <h1 className="about_title">A propos de nous</h1>
-            <p>En tant que collectif engagé, nous formons Chad Learn Hub pour propulser l'éducation au Tchad. Notre mission est d'instaurer un accès équitable aux ressources éducatives, d'améliorer nos parcours académiques et d'enrichir notre expérience d'apprentissage. Ensemble, nous façonnons l'avenir éducatif de notre communauté
+            <h1 className="about_title">About us</h1>
+            <p>As a committed collective, we form Aji Learn Hub to propel education in Nigeria. Our mission is to establish equitable access to educational resources, improve our academic journeys, and enrich our learning experience. Together, we shape the educational future of our community.
             </p>
             <div className="btn">
                 <button className="try_out btn_abt"><a href="https://front-end-pi-lilac.vercel.app/imtihani">Check it out</a></button>
