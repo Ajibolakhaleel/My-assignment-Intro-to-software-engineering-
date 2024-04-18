@@ -17,7 +17,7 @@ npm install
 Running the Application
 Execute the following command to run the app locally:
 npm start
-This will start the development server. Open http://localhost:3000 in your browser to view the app.
+This will start the development server. Open https://my-assignment-intro-to-software-engineering.vercel.app/in your browser to view the app.
 Build
 To create a production build, use:
 npm run build
@@ -25,4 +25,4 @@ This will generate optimized production-ready files in the build directory.
 Contributors
 Ajibola Khaleelullah
 Issues
-If you encounter any issues, please follow the feeback provided by the terminal to resolve the issue.
+If you happen to have any issues, please follow the feedback provided by the terminal to resolve the issue.
