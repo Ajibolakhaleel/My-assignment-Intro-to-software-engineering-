@@ -37,9 +37,9 @@ const Subjects = ({isMuted}) => {
   };
  
   const imgese = {
-    Biologie: biologyImage,
+    Biology: biologyImage,
     History: historyImage,
-    Geographie: geographyImage,
+    Geography: geographyImage,
     Science: scienceImage,
     Physics: scienceImage,
     "General Culture": geographyImage,
