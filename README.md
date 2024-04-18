@@ -1,7 +1,7 @@
 Idanwo mi
 Ajilearnhub : Accessible Learning Solutions
 Overview
-This repository contains the source code for Ajilearnhub, an educational software application designed to provide accessible learning solutions for Chadian students. The project aims to democratize access to educational materials, address the challenges of fragmented resources, and enhance the learning experience for students in Chad.
+This repository contains the source code for Ajilearnhub, an educational software application designed to provide accessible learning solutions for Chadian students. The project aims to democratize access to educational materials, address the challenges of fragmented resources, and enhance the learning experience for students in Nigeira 
 Prerequisites
 Before you begin, ensure you have met the following requirements:
 Node.js installed
