@@ -86,7 +86,7 @@ const LandingBar = ({ buttonClickSound, isMuted }) => {
           Imtihani
         </h1>
         <h4 className="text-2xl md:text-3xl lg:text-4xl xl:text-5xl mb-4 md:mb-8 lg:mb-0  rounded animate__animated animate__bounceIn">
-        Libérez le maître du quiz qui sommeille en vous ! Répondez correctement, entendez les acclamations. Répondez incorrectement, préparez-vous à un hilarant 'baa-dum-tss' de chèvre ! Que les jeux de quiz commencent ! 🎉🧠
+       Unleash the quiz master in you! Answer correctly, and hear the cheers. If you answer correctly, please prepare for a hilarious goat 'baa-dum-tss'! Let the quiz games begin! 🎉🧠
         </h4>
         <div className="flex justify-center">
           <img
