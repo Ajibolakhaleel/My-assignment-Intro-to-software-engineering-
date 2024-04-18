@@ -295,9 +295,9 @@ const QuizGame = ({ onGameEnd, isMuted }) => {
             Rejouer
           </button>
           <div className="mt-4">
-            <p className="text-xl">Nous espérons que vous avez apprécié le jeu !</p>
-            <p className="text-xl">Veuillez partager vos commentaires avec nous.</p>
-            <p className="text-xl">Nous serions ravis d’avoir de vos nouvelles !</p>
+            <p className="text-xl">We hope you enjoyed the game!</p>
+            <p className="text-xl">Please share your feedback with us.</p>
+            <p className="text-xl">We would love to hear from you!</p>
 
             <div className="flex justify-center mt-4">
               <a href="https://80r1ekn4sl4.typeform.com/to/PIrCscKl" target="_blank" rel="noopener noreferrer">
@@ -311,7 +311,7 @@ const QuizGame = ({ onGameEnd, isMuted }) => {
       {isConfirmationModalOpen && (
         <div className="fixed top-0 left-0 w-full h-full bg-black bg-opacity-50 flex items-center justify-center">
           <div className="bg-white p-6 rounded shadow-lg">
-            <p className="text-xl mb-4 text-black">Êtes-vous sûr de vouloir quitter le jeu?</p>
+            <p className="text-xl mb-4 text-black">Are you sure you want to quit the game?</p>
             <div className="flex justify-end">
               <button className="p-2 bg-red-500 text-white rounded mr-2" onClick={() => confirmExitGame(true)}>
                 Yes
